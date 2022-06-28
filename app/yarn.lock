@@ -4005,6 +4005,11 @@ lru-cache@^6.0.0:
   dependencies:
     yallist "^4.0.0"
 
+ly-tab@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.npmmirror.com/ly-tab/-/ly-tab-3.0.2.tgz#dc00027ed35976917801c7c5b0572ad5f9b0abc4"
+  integrity sha512-rQiFXXGhn41GROU339e3rdYN+3MVw/tRKnoxIdL8dJOdVI+jtaQwyAg7+oU6FBcnCVjvR4rjQW4DHShgrPyuQw==
+
 make-dir@^2.1.0:
   version "2.1.0"
   resolved "https://registry.npmmirror.com/make-dir/-/make-dir-2.1.0.tgz#5f0310e18b8be898cc07009295a30ae41e91e6f5"
